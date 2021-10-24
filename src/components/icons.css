@@ -1,0 +1,40 @@
+.iconka {
+    color: #3fffa8; font-size:2rem; margin-bottom:1rem;
+}
+.iconka_1 {
+    color: #f9b19b; font-size:2rem; margin-bottom:1rem;
+}
+
+
+.why_1 {
+    color:#047bf1;
+}
+.why_2 {
+    color:#f3a82e;
+}
+.why_3 {
+    color:#f34f2e
+}
+.why_4 {
+    color:#3af576;
+}
+
+.button_3{
+    height:40px;
+    
+    
+}
+@media screen and (max: width 768px){
+    .button_3{
+        width: 100%;
+        min-width: 350px;
+    }
+}
+@media screen and (max: width 400px){
+    .button_3{
+        width: 100%;
+        min-width: 250px;
+    }
+}
+    
+    
